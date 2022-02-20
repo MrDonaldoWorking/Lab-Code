@@ -1,0 +1,15 @@
+[submodule "Software Design/01_Assertions"]
+	path = Software Design/01_Assertions
+	url = https://github.com/MrDonaldoWorking/LRU-Cache
+[submodule "Software Design/03_Refactoring"]
+	path = Software Design/03_Refactoring
+	url = https://github.com/MrDonaldoWorking/Refactoring-Products-Site
+[submodule "Software Design/05_Bridge"]
+	path = Software Design/05_Bridge
+	url = https://github.com/MrDonaldoWorking/Graph-Visualization
+[submodule "Software Design/06_Visitor"]
+	path = Software Design/06_Visitor
+	url = https://github.com/MrDonaldoWorking/Visitor-pattern-Calculator
+[submodule "Software Design/08_Clock"]
+	path = Software Design/08_Clock
+	url = https://github.com/MrDonaldoWorking/Clock-pattern
