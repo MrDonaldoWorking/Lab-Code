@@ -13,3 +13,9 @@
 [submodule "Software Design/08_Clock"]
 	path = Software Design/08_Clock
 	url = https://github.com/MrDonaldoWorking/Clock-pattern
+[submodule "Software Design/10_Reactive"]
+	path = Software Design/10_Reactive
+	url = https://github.com/MrDonaldoWorking/Reactive-application
+[submodule "Software Design/12_Docker"]
+	path = Software Design/12_Docker
+	url = https://github.com/MrDonaldoWorking/Trade-Application
